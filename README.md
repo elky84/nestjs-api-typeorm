@@ -1,1 +1,1 @@
-# nestjs-api
+# nestjs-api-typeorm
